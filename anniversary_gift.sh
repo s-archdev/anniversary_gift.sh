@@ -131,7 +131,6 @@ cat << 'EOF'
   +---------------------------------------------------------------+
 EOF
 printf "\033[0m"
-printf "\033[0m"
 
 sleep 2
 printf "\n\n\033[1;35mPress any key to read your love letter...\033[0m"
