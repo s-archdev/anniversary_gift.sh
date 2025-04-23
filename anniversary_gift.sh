@@ -120,6 +120,17 @@ cat << 'EOF'
                                                                                                     
                                                                                                     
 EOF
+# Display the code banner beneath the heart
+printf "\033[1;36m"  # Bright cyan color for the banner
+cat << 'EOF'
+  +---------------------------------------------------------------+
+  |                                                               |
+  |         if: Var=(Shane)(Theresa)                              |
+  |         print: Anniversary_2025                               |
+  |                                                               |
+  +---------------------------------------------------------------+
+EOF
+printf "\033[0m"
 printf "\033[0m"
 
 sleep 2
