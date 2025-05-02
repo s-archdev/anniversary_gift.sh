@@ -141,7 +141,7 @@ clear_screen
 
 # Display the letter with colorful animations
 printf "\n\n"
-type_text "Theresa, my singular star, my radient north" 33
+type_text "Theresa, my singular star, my radient Polaris" 33
 
 sleep 0.5
 printf "\n"
